@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cuberiser
 - 👀 I’m interested in Python, C, discord bots
-- 🌱 I’m currently learning css, web development
+- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on h
 - 📫 How to reach me -> cuberiser@gmail.com
 
